@@ -1,3 +1,4 @@
+#![windows_subsystem = "windows"]
 use relm::{Widget};
 use gtk::prelude::*;
 use gtk::{Inhibit};
